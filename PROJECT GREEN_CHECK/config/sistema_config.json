@@ -1,0 +1,15 @@
+{
+  "tolerancia_posicao": 50.0,
+  "tolerancia_rotacao": 3.0,
+  "posicao_padrao": [
+    965,
+    455
+  ],
+  "rotacao_padrao": -1.976314632896335,
+  "config": {
+    "area_min_chapa": 5000,
+    "area_min_adesivo": 500,
+    "threshold_match": 0.7,
+    "blur_kernel": 5
+  }
+}
